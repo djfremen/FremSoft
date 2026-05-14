@@ -1,0 +1,4 @@
+build/*.o
+build/*.obj
+build/*.exp
+build/*.lib
